@@ -2357,4 +2357,85 @@ button-18:hover {
     background-color: #00008b
 }
 
+button-19 {
+    background-color: #ff0;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-20 {
+    background-color: #ff0;
+    border: 2px solid;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-21 {
+    background-color: #ff0;
+    border: 4px solid;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-22 {
+    background-color: #ff0;
+    border: 8px solid;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-23 {
+    background-color: #ff0;
+    border: 12px solid;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-24 {
+    background-color: #ff0;
+    border: 2px solid;
+    color: #000;
+    padding: 18px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+
+button-24:hover {
+    background-color: #ff8c00
+}
+
 /*# sourceMappingURL=index.css.map */
